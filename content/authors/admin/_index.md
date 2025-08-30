@@ -47,15 +47,15 @@ interests:
 education:
   - area: M.Sc. Data Science --- Computational Linguistics
     institution: University of Macau
-    date_start: 2023-08
-    date_end: 2025-07
+    date_start: 2023-08-01
+    date_end: 2025-07-01
     summary:
       GPA 3.67/4.0
 
   - area: B.Eng. Artificial Intelligence
     institution: Dalian Maritime University
-    date_start: 2019-09
-    date_end: 2023-06
+    date_start: 2019-09-01
+    date_end: 2023-06-01
     summary:
       GPA 3.42/4.0
 
