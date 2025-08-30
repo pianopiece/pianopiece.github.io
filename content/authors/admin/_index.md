@@ -27,8 +27,8 @@ role: Chief Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: 
-    url: 
+  - name: University of Macau
+    url: https://um.edu.mo
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
