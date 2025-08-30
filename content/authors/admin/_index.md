@@ -50,12 +50,14 @@ education:
     date_start: 2023-08-01
     date_end: 2025-07-01
     summary:
+      123
 
   - area: B.Eng. Artificial Intelligence
     institution: Dalian Maritime University
     date_start: 2019-09-01
     date_end: 2023-06-01
     summary:
+      123
 
 work:
   - position: Director of Cloud Infrastructure
