@@ -1,16 +1,16 @@
 ---
 # Display name
-title: 吳健雄
+title: Pianopiece
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Pianopiece
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Pianopiece
+last_name: 
 
 # Pronouns (optional)
-pronouns: she/her
+pronouns: he/him
 
 # Status emoji
 status:
