@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Pianopiece
+title: 吳健雄
 
 # Name pronunciation (optional)
-name_pronunciation: Pianopiece
+name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Pianopiece
-last_name: 
+first_name: Shiung Wu
+last_name: Chien
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns: she/her
 
 # Status emoji
 status:
@@ -27,42 +27,58 @@ role: Chief Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University of Macau
-    url: https://um.edu.mo
+  - name: OpenAI
+    url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:wxhdlcn666@outlook.com'
+    url: 'mailto:your-email@example.com'
     label: E-mail Me
-
+  - icon: brands/x
+    url: https://twitter.com/GetResearchDev
+  - icon: brands/instagram
+    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/pianopiece
-
+    url: https://github.com/gcushen
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/
+  - icon: academicons/orcid
+    url: https://orcid.org/
 
 interests:
-  - Large Vision Language Model
-  - Multi-modal
-  - Natural Language Processing
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
 
 education:
-  - area: M.Sc. Data Science --- Computational Linguistics
-    institution: University of Macau
-    date_start: 2023-08
-    date_end: 2025-07
+  - area: PhD Artificial Intelligence
+    institution: Stanford University
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-      GPA: 3.4/4.0
-      
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com'
+  - area: MEng Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      GPA: 3.8/4.0
+
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
-  - area: B.Eng. Data Science and Big Data Technology
-    institution: Dalian Maritime University
-    date_start: 2019-09
-    date_end: 2023-06
+  - area: BSc Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
       GPA: 3.4/4.0
       
