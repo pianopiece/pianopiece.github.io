@@ -39,7 +39,7 @@ You can find my latest publication and citation information on <a href='https://
 **Xinhao Wang**, Xinyu Ma, Shengyong Ding, Derek F. Wong
 
 [**Google Scholar**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=i_wP8QMAAAAJ&citation_for_view=i_wP8QMAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='i_wP8QMAAAAJ:u5HHmVD_uO8C'></span></strong>
-- Findings of the Association for Computational Linguistics: EMNLP 2025, pages 481-493, 2025.
+- We define and measure creativity in text-to-image generation, build an automated benchmark construction pipeline, and show through extensive experiments that current T2I models still have limited creativity.
 </div>
 </div>
 
@@ -51,14 +51,15 @@ You can find my latest publication and citation information on <a href='https://
 **Xinhao Wang**, Xinyu Ma, Shengyong Ding, Lidia S. Chao, Derek F. Wong
 
 [**Google Scholar**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=i_wP8QMAAAAJ&citation_for_view=i_wP8QMAAAAJ:u-x6o8ySG0sC)
-- CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC), pages 48-61, 2025.
+- We propose A-CoT, a training-free assembled chain-of-thought reasoning method that combines diverse CoT prompts during decoding to reduce object hallucination in large vision-language models.
 </div>
 </div>
 
 <span class='anchor' id='experiences'></span>
 # 💼 Experiences
-- *2023.08 - 2025.06*: Research Assistant and M.Sc. Student, NLP2CT Lab, University of Macau (Advised by Prof. Derek F. Wong).
-- *2026.09 - Present*: Researcher and Ph.D. Student, NEUIR, Northeastern University (Advised by Prof. Zhenghao Liu).
+- *2023.08 - 2025.06*: M.Sc., NLP2CT Lab, University of Macau (Advised by Prof. Derek F. Wong).
+- *2026.03 - Present*: Intern, ModelBest.
+- *2026.09 - Present*: Ph.D., NEUIR, Northeastern University (Advised by Prof. Zhenghao Liu).
 
 <span class='anchor' id='education'></span>
 # 📖 Education
