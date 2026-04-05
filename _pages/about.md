@@ -52,3 +52,12 @@ You can find my latest publication and citation information on <a href='https://
 - CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC), pages 48-61, 2025.
 </div>
 </div>
+
+# 💼 Experiences
+- *2023.08 - 2025.06*: Research Assistant and M.Sc. Student, NLP2CT Lab, University of Macau (Advised by Prof. Derek F. Wong).
+- *2026.09 - Present*: Researcher and Ph.D. Student, NEUIR, Northeastern University (Advised by Prof. Zhenghao Liu).
+
+# 📖 Education
+- *2019.09 - 2023.06*: B.Eng., School of Information Science and Technology, Dalian Maritime University. Major: Data Science and Big Data Technology.
+- *2023.08 - 2025.06*: M.Sc., Institute of Collaborative Innovation, University of Macau. Major: Data Science (Computational Linguistics).
+- *2026.09 - Present*: Ph.D., School of Computer Science and Engineering, Northeastern University. Major: Computer Science and Technology.
