@@ -56,7 +56,7 @@ Outside research, I enjoy taking care of succulents and other green plants, and 
 <span class='anchor' id='honors-and-awards'></span>
 # 🎖 Honors and Awards
 - *2024.07 - 2025.05*: STUDENT FELLOWSHIP, FDCT Research Project, RA.
-- *2022*: National Second Prize, China Collegiate Computing Contest - Big Data Challenge (jointly organized by Tsinghua University and Tencent), for the multimodal video classification track.
+- *2022.08*: National Second Prize, China Collegiate Computing Contest - Big Data Challenge (jointly organized by Tsinghua University and Tencent), for the multimodal video classification track.
 
 <span class='anchor' id='experiences'></span>
 # 💼 Experiences
