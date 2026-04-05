@@ -55,14 +55,19 @@ Outside research, I enjoy taking care of succulents and other green plants, and 
 </div>
 </div>
 
+<span class='anchor' id='honors-and-awards'></span>
+# 🎖 Honors and Awards
+- *2024.07 - 2025.05*: STUDENT FELLOWSHIP, FDCT Research Project, RA.
+- *2022*: National Second Prize, China Collegiate Computing Contest - Big Data Challenge (jointly organized by Tsinghua University and Tencent), for the multimodal video classification track.
+
 <span class='anchor' id='experiences'></span>
 # 💼 Experiences
-- *2023.08 - 2025.06*: M.Sc., NLP2CT Lab, University of Macau (Advised by Prof. Derek F. Wong).
-- *2026.03 - Present*: Intern, ModelBest.
 - *2026.09 - Present*: Ph.D., NEUIR, Northeastern University (Advised by Prof. Zhenghao Liu).
+- *2026.03 - Present*: Intern, ModelBest.
+- *2023.08 - 2025.06*: M.Sc., NLP2CT Lab, University of Macau (Advised by Prof. Derek F. Wong).
 
 <span class='anchor' id='education'></span>
 # 📖 Education
-- *2019.09 - 2023.06*: B.Eng., School of Information Science and Technology, Dalian Maritime University. Major: Data Science and Big Data Technology.
-- *2023.08 - 2025.06*: M.Sc., Institute of Collaborative Innovation, University of Macau. Major: Data Science (Computational Linguistics).
 - *2026.09 - Present*: Ph.D., School of Computer Science and Engineering, Northeastern University. Major: Computer Science and Technology.
+- *2023.08 - 2025.06*: M.Sc., Institute of Collaborative Innovation, University of Macau. Major: Data Science (Computational Linguistics).
+- *2019.09 - 2023.06*: B.Eng., School of Information Science and Technology, Dalian Maritime University. Major: Data Science and Big Data Technology.
