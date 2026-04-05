@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am **Xinhao Wang** from the **University of Macau**.
+I am **Xinhao Wang** from **Northeastern University**.
 
-My current research focuses on **Large Vision Language Models (LVLMs)** and related evaluation/reasoning problems.
+My research primarily focuses on **Vision-Language-Action (VLA)** and **Large Vision Language Models (LVLMs)**. I am currently in the **NEUIR Lab** under the guidance of Associate Professor **Zhenghao Liu**.
 
-You can find my latest publication and citation information on <a href='https://scholar.google.com/citations?user=i_wP8QMAAAAJ&hl=en'>Google Scholar <strong><span id='total_cit'></span></strong></a> (auto-updated badge: <a href='https://scholar.google.com/citations?user=i_wP8QMAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Outside research, I enjoy taking care of succulents and other green plants, and I like playing computer games. My current favorite game is **Where Winds Meet**. If you share these interests, I would be glad to connect and grow together 📞.
 
 <span class='anchor' id='news'></span>
 # 🔥 News
