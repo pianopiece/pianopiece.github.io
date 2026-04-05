@@ -22,10 +22,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Xinhao Wang"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "University of Macau"
-  location         : "Macau, China"
-  employer         : "University of Macau"
+  avatar           : "https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=i_wP8QMAAAAJ&citpid=1"
+  bio              : "Northeastern University"
+  location         : "Shenyang, China"
+  employer         : "Northeastern University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=i_wP8QMAAAAJ&hl=en"
   email            :

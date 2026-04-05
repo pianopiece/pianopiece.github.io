@@ -23,11 +23,13 @@ My current research focuses on **Large Vision Language Models (LVLMs)** and rela
 
 You can find my latest publication and citation information on <a href='https://scholar.google.com/citations?user=i_wP8QMAAAAJ&hl=en'>Google Scholar <strong><span id='total_cit'></span></strong></a> (auto-updated badge: <a href='https://scholar.google.com/citations?user=i_wP8QMAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
+<span class='anchor' id='news'></span>
 # 🔥 News
 - *2025.11*: Our work **Evaluation of Text-to-Image Generation from a Creativity Perspective** was published at Findings of ACL: EMNLP 2025.
 - *2025.08*: Our work **Mitigating Object Hallucination Through Assembled Chain-of-Thought Reasoning** was accepted by NLPCC 2025.
 
-# 📝 Selected Publications
+<span class='anchor' id='publications'></span>
+# 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Findings of ACL: EMNLP 2025</div><img src='images/500x300.png' alt="paper" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -53,10 +55,12 @@ You can find my latest publication and citation information on <a href='https://
 </div>
 </div>
 
+<span class='anchor' id='experiences'></span>
 # 💼 Experiences
 - *2023.08 - 2025.06*: Research Assistant and M.Sc. Student, NLP2CT Lab, University of Macau (Advised by Prof. Derek F. Wong).
 - *2026.09 - Present*: Researcher and Ph.D. Student, NEUIR, Northeastern University (Advised by Prof. Zhenghao Liu).
 
+<span class='anchor' id='education'></span>
 # 📖 Education
 - *2019.09 - 2023.06*: B.Eng., School of Information Science and Technology, Dalian Maritime University. Major: Data Science and Big Data Technology.
 - *2023.08 - 2025.06*: M.Sc., Institute of Collaborative Innovation, University of Macau. Major: Data Science (Computational Linguistics).
