@@ -63,7 +63,7 @@ Outside research, I enjoy taking care of succulents and other green plants, and 
 <span class='anchor' id='experiences'></span>
 # 💼 Experiences
 - *2026.09 - Present*: Ph.D., NEUIR, Northeastern University (Advised by Prof. Zhenghao Liu).
-- *2026.03 - Present*: Intern, ModelBest.
+- *2026.03 - Present*: Intern., ModelBest.
 - *2023.08 - 2025.06*: M.Sc., NLP2CT Lab, University of Macau (Advised by Prof. Derek F. Wong).
 
 <span class='anchor' id='education'></span>
