@@ -31,7 +31,7 @@ Outside research, I enjoy taking care of succulents and other green plants, and 
 <span class='anchor' id='publications'></span>
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Findings of ACL: EMNLP 2025</div><img src='images/500x300.png' alt="paper" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Findings of ACL: EMNLP 2025</div><img src='images/creativity.png' alt="paper" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Evaluation of Text-to-Image Generation from a Creativity Perspective](https://aclanthology.org/2025.findings-emnlp.26/)
@@ -43,7 +43,7 @@ Outside research, I enjoy taking care of succulents and other green plants, and 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NLPCC 2025</div><img src='images/500x300.png' alt="paper" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NLPCC 2025</div><img src='images/acot.png' alt="paper" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Mitigating Object Hallucination Through Assembled Chain-of-Thought Reasoning](https://link.springer.com/chapter/10.1007/978-981-95-3346-6_4)
