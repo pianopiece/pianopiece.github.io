@@ -17,9 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am **Xinhao Wang** from **Northeastern University**.
-
-My research primarily focuses on **Vision-Language-Action (VLA)** and **Large Vision Language Models (LVLMs)**. I am currently in the **NEUIR Lab** under the guidance of Associate Professor **Zhenghao Liu**.
+I am **Xinhao Wang**, an incoming **Ph.D. student** at **Northeastern University**. My research primarily focuses on **Vision-Language-Action (VLA)** and **Large Vision Language Models (LVLMs)**. I am currently in the **NEUIR Lab** under the guidance of Associate Professor **Zhenghao Liu**.
 
 Outside research, I enjoy taking care of succulents and other green plants, and I like playing computer games. My current favorite game is **Where Winds Meet**. If you share these interests, I would be glad to connect and grow together 📞.
 
